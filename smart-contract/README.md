@@ -1,6 +1,6 @@
 # smart-contract
 
-Our Donate Crypto web3 smart contract. Project from Web3 Week: https://www.luiztools.com.br/w3w
+Our Donate Crypto web3 smart contract
 
 ## How to Run
 
@@ -10,6 +10,4 @@ Our Donate Crypto web3 smart contract. Project from Web3 Week: https://www.luizt
 4. compile & deploy
 5. test
 
-Follow me on social networks for more: https://about.me/luiztools
-
-Receive my news on Telegram: https://t.me/luiznews
+Receive my news on Telegram: https://t.me/Hadsh0t
